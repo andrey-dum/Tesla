@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tesla/static/css/main.c00a619a.chunk.css",
+    "main.js": "/tesla/static/js/main.742a550d.chunk.js",
+    "main.js.map": "/tesla/static/js/main.742a550d.chunk.js.map",
+    "runtime-main.js": "/tesla/static/js/runtime-main.31b6b997.js",
+    "runtime-main.js.map": "/tesla/static/js/runtime-main.31b6b997.js.map",
+    "static/js/2.21ae525c.chunk.js": "/tesla/static/js/2.21ae525c.chunk.js",
+    "static/js/2.21ae525c.chunk.js.map": "/tesla/static/js/2.21ae525c.chunk.js.map",
+    "static/js/3.704469b8.chunk.js": "/tesla/static/js/3.704469b8.chunk.js",
+    "static/js/3.704469b8.chunk.js.map": "/tesla/static/js/3.704469b8.chunk.js.map",
+    "index.html": "/tesla/index.html",
+    "static/css/main.c00a619a.chunk.css.map": "/tesla/static/css/main.c00a619a.chunk.css.map",
+    "static/js/2.21ae525c.chunk.js.LICENSE.txt": "/tesla/static/js/2.21ae525c.chunk.js.LICENSE.txt",
+    "static/media/Desktop-Accessories.027ada94.jpg": "/tesla/static/media/Desktop-Accessories.027ada94.jpg",
+    "static/media/Desktop-Model3.30651f79.jpeg": "/tesla/static/media/Desktop-Model3.30651f79.jpeg",
+    "static/media/Desktop-ModelS.e3d22a07.jpeg": "/tesla/static/media/Desktop-ModelS.e3d22a07.jpeg",
+    "static/media/Desktop-ModelX.83417303.jpeg": "/tesla/static/media/Desktop-ModelX.83417303.jpeg",
+    "static/media/Desktop-ModelY.30acb76a.jpeg": "/tesla/static/media/Desktop-ModelY.30acb76a.jpeg",
+    "static/media/Desktop-SolarPanels.d7d441d7.jpeg": "/tesla/static/media/Desktop-SolarPanels.d7d441d7.jpeg",
+    "static/media/Desktop-SolarRoof.9eb2e602.jpeg": "/tesla/static/media/Desktop-SolarRoof.9eb2e602.jpeg",
+    "static/media/index.css": "/tesla/static/media/iCiel-Medium.b23bb62d.ttf",
+    "static/media/teslaLogoSmall.a7b59bc6.svg": "/tesla/static/media/teslaLogoSmall.a7b59bc6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31b6b997.js",
+    "static/js/2.21ae525c.chunk.js",
+    "static/css/main.c00a619a.chunk.css",
+    "static/js/main.742a550d.chunk.js"
+  ]
+}

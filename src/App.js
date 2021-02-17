@@ -96,7 +96,7 @@ function App() {
   return (
     <div className="app">
       <Header />
-      <div className="app_itemsContainer">
+      <div className="app__itemsContainer">
         {items.map(item => (
           <Item 
             key={item.title}

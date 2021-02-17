@@ -77,6 +77,17 @@ const items = [
     rightBtnText: "LEARN MORE",
     rightBtnLink: "",
     twoButtons: true,
+  },
+  {
+    title: "Accessories", 
+    desc: "Money-back guarantee",
+    descLink: '',
+    backgroundImg: Accessories,
+    leftBtnText: "CUSTOM ORDER",
+    leftBtnLink: "",
+    rightBtnText: "LEARN MORE",
+    rightBtnLink: "",
+    twoButtons: true,
   }
 ]
 
@@ -92,8 +103,6 @@ function App() {
             item={item}
           />
         ))}
-        
-        
       </div>
     </div>
   );

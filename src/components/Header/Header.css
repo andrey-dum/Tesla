@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    background: none;
+    position: fixed;
+    width: 100vw;
+    padding: 0 15px;
+    top: 0;
+    margin: 15px;
+    margin-top: 15px;
+    z-index: 100;
+}
+
+.header__log {
+    height: 24px;
+    width: 100px;
+    margin-top: 7px;
+}
+
+.header__center {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+.header__center > div {
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+.header__right {
+    display: flex;
+    justify-content: flex-end;
+    text-transform: uppercase;
+}
+
+.header__right > div {
+    margin: 10px;
+}
